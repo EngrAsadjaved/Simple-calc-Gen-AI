@@ -58,7 +58,8 @@ else:
 
 # Footer
 st.markdown("---")
-st.write("Developed by [Your Name](https://github.com/yourprofile)")
+st.write("Deployed by **Engr. Asad Javed**")
+st.write("Developed by [Engr. Asad Javed](https://github.com/yourprofile)")
 
 # Option for resetting values
 if st.sidebar.button("Reset"):
